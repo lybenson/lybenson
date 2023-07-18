@@ -1,5 +1,7 @@
 ### Hi there
 
+<img src="https://komarev.com/ghpvc/?username=lybenson&style=for-the-badge">
+
 I'm **benson**, a full-stack developer from China, currently focusing on the research and development of web3 technologies.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=lybenson&show_icons=true&include_all_commits=true" alt="lybenson's github stats" />
