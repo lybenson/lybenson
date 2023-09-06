@@ -25,7 +25,10 @@ I'm **benson**, a full-stack developer from China, currently focusing on the res
   <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Express"
     src="https://img.shields.io/badge/-Express-13aa52?style=flat-square&logo=express&logoColor=white" />
+  <img alt="Koa"
+    src="https://img.shields.io/badge/-Koa-ee9949?style=flat-square&logo=koa&logoColor=white" />
   <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-f9de6a?style=flat-square&logo=python&logoColor=white" />
   <img alt="Mysql"
     src="https://img.shields.io/badge/-Mysql-3E6E93?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="MongoDB"
