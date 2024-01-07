@@ -4,7 +4,7 @@
 
 I'm **benson**, a full-stack developer from China, currently focusing on the research and development of web3 technologies.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=lybenson&show_icons=true&include_all_commits=true&theme=tokyonight#gh-dark-mode-only" alt="lybenson's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=lybenson" alt="lybenson's github stats" />
 
 **Skills**
 
