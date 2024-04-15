@@ -1,8 +1,8 @@
-# benson
+# syen
 
 <img src="https://komarev.com/ghpvc/?username=lybenson&style=for-the-badge">
 
-I'm **benson**, a full-stack developer from China, currently focusing on the research and development of web3 technologies.
+I'm **syen**, a full-stack developer from China, currently focusing on the research and development of web3 technologies.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=lybenson" alt="lybenson's github stats" />
 
