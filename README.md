@@ -22,6 +22,7 @@ I'm **syen**, a full-stack developer from China, currently focusing on the resea
 </p>
 
 <P> 
+  <img alt="Rust" src="https://img.shields.io/badge/-Rust-f74b00?style=flat-square&logo=rust&logoColor=white" />
   <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Express"
     src="https://img.shields.io/badge/-Express-13aa52?style=flat-square&logo=express&logoColor=white" />
