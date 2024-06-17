@@ -15,6 +15,7 @@ I'm **syen**, a full-stack developer from China, currently focusing on the resea
     src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="TailwindCSS"
     src="https://img.shields.io/badge/-Tailwindcss-50B3D0?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img alt="Astro" src="https://img.shields.io/badge/-Astro-D9333E?style=flat-square&logo=astro&logoColor=white" />
   <img alt="Styled Components"
     src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="Vite 2" src="https://img.shields.io/badge/-Vite-81A3F9?style=flat-square&logo=vite&logoColor=white" />
