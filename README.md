@@ -37,7 +37,8 @@ I'm **syen**, a full-stack developer from China, currently focusing on the resea
     src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </P>
 
-<P> 
+<P>
+  <img alt="Bitcoin" src="https://img.shields.io/badge/-Bitcoin-ee9949?style=flat-square&logo=Bitcoin&logoColor=white" />
   <img alt="Ethereum" src="https://img.shields.io/badge/-Ethereum-43853d?style=flat-square&logo=Ethereum&logoColor=white" />
   <img alt="Solidity"
     src="https://img.shields.io/badge/-Solidity-672AC8?style=flat-square&logo=Solidity&logoColor=white" />
